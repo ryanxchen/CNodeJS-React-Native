@@ -12,4 +12,6 @@ react-native run-ios
 # or 用xcode打开ios/CNodeJSReactNative.xcodeproj文件夹，运行项目
 ```
 ---
-<img src="./cnodejs-rn.gif" alg="cnodejsgif">
+<img src="./cnodejs-rn.gif" alg="cnodejsgif" style="display:none;">
+
+<img src="https://gitee.com/ryanxchen/CNodeJS-React-Native/raw/master/cnodejs-rn.gif" alg="cnodejsgif" >
