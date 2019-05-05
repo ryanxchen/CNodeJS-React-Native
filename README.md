@@ -13,4 +13,4 @@ react-native run-ios
 ```
 ---
 
-<img src="https://gitee.com/ryanxchen/img/raw/master/cnodejs-rn.gif" alg="cnodejsgif" >
+![gif](./cnodejs-rn.gif)
